@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bluetooth Connector v3</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_visible">Make visible</string>
+</resources>

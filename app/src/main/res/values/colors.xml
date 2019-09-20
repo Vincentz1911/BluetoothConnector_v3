@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1585ad</color>
+    <color name="colorPrimaryDark">#002345</color>
+    <color name="colorAccent">#C3E0F8</color>
+    <color name="colorBluetooth">#FF0082FC</color>
+</resources>
